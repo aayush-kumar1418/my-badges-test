@@ -43,7 +43,7 @@ This is a test repository specifically created to learn advanced Git workflows, 
 
 Below are my live stats showing my current progress and open-source contributions:
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayush-kumar1418&show_icons=true&theme=radial&hide_border=true)
+![Aayush's GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)
 
 ---
 
