@@ -57,4 +57,7 @@ This project is open source. Feel free to use and learn!
 
 ---
 
-**Made with ❤️ using Git & GitHub**
+**Made with using Git & GitHub**
+
+## Updated on June 7, 2026
+Added new line for getting GitHub badge 
